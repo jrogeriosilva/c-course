@@ -26,9 +26,7 @@ Input Output
 ```
 -15 6
 ```
-# Problema 2 - Função recursiva para calcular potência é uma potên-
-
-# cia
+# Problema 2 - Função recursiva para calcular potência é uma potência
 
 Escreva uma função recursiva para calcular uma exponenciação com a seguinte assinatura. Sua função não
 deve tratar o caso em que o expoente é negativo.
